@@ -14,4 +14,8 @@ Next to these services there are three examples of benefits to the client's busi
 -Brand Awareness
 -Cost Managment.
 
-Webpage is broken down into semantic HTML including: header, body, footer, alt codes, corrected Href links, proper indentation, and comments at the beginning and end of each section. CSS code is linked to follow the flow of the webpage and the original size has been reduced by removing repetative code and combining element selectors for shared rule sets.  
+Webpage is broken down into semantic HTML including: header, body, footer, alt codes, corrected Href links, proper indentation, and comments at the beginning and end of each section. CSS code is linked to follow the flow of the webpage and the original size has been reduced by removing repetative code and combining element selectors for shared rule sets. 
+
+link to deployment : https://jcsryan.github.io/test-week-1/
+
+![](2020-03-21-13-17-58.png)
